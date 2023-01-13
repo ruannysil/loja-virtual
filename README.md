@@ -11,7 +11,7 @@ Projeto loja-virtual-Games.
 </p>
 
 <p align="center">
-  <img alt="License" src="https://user-images.githubusercontent.com/84647446/212438021-d33fcaf9-b706-4f92-88f5-af2b76257e7e.jpg" width="500px">
+  <img alt="License" src="https://user-images.githubusercontent.com/84647446/212438021-d33fcaf9-b706-4f92-88f5-af2b76257e7e.jpg" width="700px">
 </p>
 
 <br>
